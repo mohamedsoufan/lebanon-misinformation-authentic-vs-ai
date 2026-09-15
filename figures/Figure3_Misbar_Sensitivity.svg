@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect x="0" y="0" width="1000" height="430" fill="#ffffff"/>
+<text x="40" y="40" font-size="21" font-weight="700" fill="#0b0b0b">Authentic-content misuse remained the majority in both Misbar sensitivity checks</text>
+<text x="40" y="66" font-size="14" fill="#52514e">Full corpus compared with claims having at least one non-Misbar fact-check and claims with no Misbar involvement</text>
+<text x="40" y="132.0" font-size="14" font-weight="600" fill="#0b0b0b">Full corpus</text>
+<text x="40" y="150.0" font-size="12" fill="#898781">N = 142</text>
+<rect x="360" y="118" width="496.2200000000001" height="40" fill="#2a78d6"/>
+<text x="608.11" y="143.0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">85.9%</text>
+<rect x="858.22" y="118" width="63.540000000000006" height="40" fill="#eb6834"/>
+<text x="889.99" y="143.0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">11.3%</text>
+<path d="M 923.76,118 H 934.0 A 4,4 0 0 1 938.0,122 V 154 A 4,4 0 0 1 934.0,158 H 923.76 Z" fill="#898781"/>
+<text x="944.0" y="143.0" font-size="12" font-weight="700" fill="#0b0b0b">2.8%</text>
+<text x="40" y="250.0" font-size="14" font-weight="600" fill="#0b0b0b">At least one non-Misbar fact-check</text>
+<text x="40" y="268.0" font-size="12" fill="#898781">N = 45</text>
+<rect x="360" y="236" width="371.52" height="40" fill="#2a78d6"/>
+<text x="545.76" y="261.0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">64.4%</text>
+<rect x="733.52" y="236" width="152.86" height="40" fill="#eb6834"/>
+<text x="809.95" y="261.0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">26.7%</text>
+<path d="M 888.38,236 H 934.0 A 4,4 0 0 1 938.0,240 V 272 A 4,4 0 0 1 934.0,276 H 888.38 Z" fill="#898781"/>
+<text x="913.19" y="261.0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">8.9%</text>
+<text x="40" y="368.0" font-size="14" font-weight="600" fill="#0b0b0b">No Misbar involvement</text>
+<text x="40" y="386.0" font-size="12" fill="#898781">N = 41</text>
+<rect x="360" y="354" width="394.14" height="40" fill="#2a78d6"/>
+<text x="557.0699999999999" y="379.0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">68.3%</text>
+<rect x="756.14" y="354" width="125.6" height="40" fill="#eb6834"/>
+<text x="818.9399999999999" y="379.0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">22.0%</text>
+<path d="M 883.74,354 H 934.58 A 4,4 0 0 1 938.58,358 V 390 A 4,4 0 0 1 934.58,394 H 883.74 Z" fill="#898781"/>
+<text x="911.16" y="379.0" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle">9.8%</text>
+<rect x="360" y="409" width="12" height="12" rx="2" fill="#2a78d6"/>
+<text x="378" y="420" font-size="12" fill="#52514e">Authentic-content misuse</text>
+<rect x="568.0" y="409" width="12" height="12" rx="2" fill="#eb6834"/>
+<text x="586.0" y="420" font-size="12" fill="#52514e">AI-related</text>
+<rect x="685.0" y="409" width="12" height="12" rx="2" fill="#898781"/>
+<text x="703.0" y="420" font-size="12" fill="#52514e">Other</text>
+</svg>

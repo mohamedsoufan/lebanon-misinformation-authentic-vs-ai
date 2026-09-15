@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="700" viewBox="0 0 940 700" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect x="0" y="0" width="940" height="700" fill="#ffffff"/>
+<text x="40" y="40" font-size="21" font-weight="700" fill="#0b0b0b">Recycled old content was the largest fine-grained category</text>
+<text x="40" y="66" font-size="14" fill="#52514e">Classification of 142 fact-checked misinformation claims in the study corpus</text>
+<line x1="40" y1="104" x2="40" y2="640" stroke="#c3c2b7" stroke-width="1"/>
+<text x="40" y="110" font-size="14" font-weight="600" fill="#0b0b0b">recycled old content</text>
+<path d="M 40,118 H 491.99999999999994 A 4,4 0 0 1 495.99999999999994,122 V 134 A 4,4 0 0 1 491.99999999999994,138 H 40 Z" fill="#2a78d6"/>
+<text x="505.99999999999994" y="134" font-size="14" font-weight="700" fill="#0b0b0b">81 (57.0%)</text>
+<text x="40" y="178" font-size="14" font-weight="600" fill="#0b0b0b">false context / wrong location</text>
+<path d="M 40,186 H 261.59999999999997 A 4,4 0 0 1 265.59999999999997,190 V 202 A 4,4 0 0 1 261.59999999999997,206 H 40 Z" fill="#2a78d6"/>
+<text x="275.59999999999997" y="202" font-size="14" font-weight="700" fill="#0b0b0b">40 (28.2%)</text>
+<text x="40" y="246" font-size="14" font-weight="600" fill="#0b0b0b">AI-generated</text>
+<path d="M 40,254 H 120.8 A 4,4 0 0 1 124.8,258 V 270 A 4,4 0 0 1 120.8,274 H 40 Z" fill="#eb6834"/>
+<text x="134.8" y="270" font-size="14" font-weight="700" fill="#0b0b0b">15 (10.6%)</text>
+<text x="40" y="314" font-size="14" font-weight="600" fill="#0b0b0b">fabricated quote</text>
+<path d="M 40,322 H 47.2 A 4,4 0 0 1 51.2,326 V 338 A 4,4 0 0 1 47.2,342 H 40 Z" fill="#898781"/>
+<text x="61.2" y="338" font-size="14" font-weight="700" fill="#0b0b0b">2 (1.4%)</text>
+<text x="40" y="382" font-size="14" font-weight="600" fill="#0b0b0b">AI-manipulated</text>
+<path d="M 40,390 H 41.6 A 4,4 0 0 1 45.6,394 V 406 A 4,4 0 0 1 41.6,410 H 40 Z" fill="#eb6834"/>
+<text x="55.6" y="406" font-size="14" font-weight="700" fill="#0b0b0b">1 (0.7%)</text>
+<text x="40" y="450" font-size="14" font-weight="600" fill="#0b0b0b">other</text>
+<path d="M 40,458 H 41.6 A 4,4 0 0 1 45.6,462 V 474 A 4,4 0 0 1 41.6,478 H 40 Z" fill="#898781"/>
+<text x="55.6" y="474" font-size="14" font-weight="700" fill="#0b0b0b">1 (0.7%)</text>
+<text x="40" y="518" font-size="14" font-weight="600" fill="#0b0b0b">recycled old content + audio-manipulated</text>
+<path d="M 40,526 H 41.6 A 4,4 0 0 1 45.6,530 V 542 A 4,4 0 0 1 41.6,546 H 40 Z" fill="#2a78d6"/>
+<text x="55.6" y="542" font-size="14" font-weight="700" fill="#0b0b0b">1 (0.7%)</text>
+<text x="40" y="586" font-size="14" font-weight="600" fill="#0b0b0b">fabricated document</text>
+<path d="M 40,594 H 41.6 A 4,4 0 0 1 45.6,598 V 610 A 4,4 0 0 1 41.6,614 H 40 Z" fill="#898781"/>
+<text x="55.6" y="610" font-size="14" font-weight="700" fill="#0b0b0b">1 (0.7%)</text>
+<line x1="40" y1="640" x2="840" y2="640" stroke="#c3c2b7" stroke-width="1"/>
+<text x="40" y="658" font-size="11" fill="#898781">0%</text>
+<text x="840" y="658" font-size="11" fill="#898781" text-anchor="end">100%</text>
+<rect x="40" y="669" width="12" height="12" rx="2" fill="#2a78d6"/>
+<text x="58" y="680" font-size="12" fill="#52514e">Authentic-content-misuse categories</text>
+<rect x="319.5" y="669" width="12" height="12" rx="2" fill="#eb6834"/>
+<text x="337.5" y="680" font-size="12" fill="#52514e">AI-related categories</text>
+<rect x="508.0" y="669" width="12" height="12" rx="2" fill="#898781"/>
+<text x="526.0" y="680" font-size="12" fill="#52514e">Residual categories</text>
+</svg>

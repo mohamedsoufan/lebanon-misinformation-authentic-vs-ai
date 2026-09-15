@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="470" viewBox="0 0 920 470" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect x="0" y="0" width="920" height="470" fill="#ffffff"/>
+<text x="40" y="40" font-size="21" font-weight="700" fill="#0b0b0b">Most fact-checked claims involved authentic content used deceptively</text>
+<text x="40" y="66" font-size="14" fill="#52514e">Grouped manipulation type among 142 fact-checked misinformation claims related to the 2026 Lebanon conflict</text>
+<line x1="40" y1="104" x2="40" y2="356" stroke="#c3c2b7" stroke-width="1"/>
+<text x="40" y="108" font-size="15" font-weight="600" fill="#0b0b0b">Authentic-content misuse</text>
+<path d="M 40,118 H 714.6100000000001 A 4,4 0 0 1 718.6100000000001,122 V 138 A 4,4 0 0 1 714.6100000000001,142 H 40 Z" fill="#2a78d6"/>
+<text x="730.6100000000001" y="136" font-size="17" font-weight="700" fill="#0b0b0b">85.9%</text>
+<text x="730.6100000000001" y="155" font-size="12" fill="#898781">(122/142)</text>
+<text x="40" y="200" font-size="15" font-weight="600" fill="#0b0b0b">AI-related</text>
+<path d="M 40,210 H 125.26999999999998 A 4,4 0 0 1 129.26999999999998,214 V 230 A 4,4 0 0 1 125.26999999999998,234 H 40 Z" fill="#eb6834"/>
+<text x="141.26999999999998" y="228" font-size="17" font-weight="700" fill="#0b0b0b">11.3%</text>
+<text x="141.26999999999998" y="247" font-size="12" fill="#898781">(16/142)</text>
+<text x="40" y="292" font-size="15" font-weight="600" fill="#0b0b0b">Other</text>
+<path d="M 40,302 H 58.12 A 4,4 0 0 1 62.12,306 V 322 A 4,4 0 0 1 58.12,326 H 40 Z" fill="#898781"/>
+<text x="74.12" y="320" font-size="17" font-weight="700" fill="#0b0b0b">2.8%</text>
+<text x="74.12" y="339" font-size="12" fill="#898781">(4/142)</text>
+<line x1="40" y1="356" x2="830" y2="356" stroke="#c3c2b7" stroke-width="1"/>
+<text x="40" y="374" font-size="11" fill="#898781">0%</text>
+<text x="830" y="374" font-size="11" fill="#898781" text-anchor="end">100%</text>
+<text x="40" y="400" font-size="11.5" fill="#52514e">Authentic-content misuse includes recycled old content, false context/wrong location, and the single</text>
+<text x="40" y="417" font-size="11.5" fill="#52514e">recycled-old-content + audio-manipulated case. AI-related includes AI-generated and AI-manipulated content.</text>
+<text x="40" y="434" font-size="11.5" fill="#52514e">Other includes fabricated quotes, fabricated documents, and the residual “other” category.</text>
+</svg>
